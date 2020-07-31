@@ -28,9 +28,6 @@
             <a align="center">
                 <img align="center" src="https://img.shields.io/badge/javascript-important?&style=for-the-badge&logo=javascript&logoColor=white"/>
             </a>
-            <a align="center">
-                <img align="center" src="https://img.shields.io/badge/python-important?&style=for-the-badge&logo=python&logoColor=white"/>
-            </a>
         </p>
     </p>
 </p>
