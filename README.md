@@ -1,32 +1,22 @@
 <p align="center">
-    <p align="center">
         <p align="center">
-            <a align="center" target="__blank" href="https://twitter.com/i686leak">
-                <img align="center" src="https://img.shields.io/badge/twitter-blueviolet?&style=for-the-badge&logo=twitter&logoColor=white"/>
-            </a>
-            <a align="center" target="__blank" href="mailto:i686leak@pm.me">
-                <img align="center" src="https://img.shields.io/badge/send email-blueviolet?&style=for-the-badge&logo=protonmail&logoColor=white"/>
-            </a>
-        </p>
-        <hr>
-        <p align="center">
-            <p align="center"><b>Learning</b></p>
+            <p align="center"><em>learning</em></p>
         </p>
         <p align="center">
             <a align="center">
-                <img align="center" src="https://img.shields.io/badge/sysadmin-important?&style=for-the-badge&logo=linux&logoColor=white"/>
-            </a>
+                <img align="center" src="https://img.shields.io/badge/sysadmin-blueviolet?&style=for-the-badge&logo=linux&logoColor=white"/>
+            </a> &nbsp;
             <a align="center">
-                <img align="center" src="https://img.shields.io/badge/offensive security-important?&style=for-the-badge&logo=hackaday&logoColor=white"/>
-            </a>
+                <img align="center" src="https://img.shields.io/badge/offensive security-blueviolet?&style=for-the-badge&logo=hackaday&logoColor=white"/>
+            </a> &nbsp;
             <a align="center">
-                <img align="center" src="https://img.shields.io/badge/ruby-important?&style=for-the-badge&logo=ruby&logoColor=white"/>
-            </a>
+                <img align="center" src="https://img.shields.io/badge/ruby-blueviolet?&style=for-the-badge&logo=ruby&logoColor=white"/>
+            </a> &nbsp;
             <a align="center">
-                <img align="center" src="https://img.shields.io/badge/bash-important?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-            </a>
+                <img align="center" src="https://img.shields.io/badge/bash-blueviolet?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+            </a> &nbsp;
             <a align="center">
-                <img align="center" src="https://img.shields.io/badge/javascript-important?&style=for-the-badge&logo=javascript&logoColor=white"/>
+                <img align="center" src="https://img.shields.io/badge/javascript-blueviolet?&style=for-the-badge&logo=javascript&logoColor=white"/>
             </a>
         </p>
     </p>
