@@ -6,14 +6,14 @@
         </p>
         <p align="center">
             <a align="center">
+                <img align="center" src="https://img.shields.io/badge/back end-black?&style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+            </a> &nbsp;             
+            <a align="center">
                 <img align="center" src="https://img.shields.io/badge/offensive security-black?&style=for-the-badge&logo=hackaday&logoColor=white"/>
             </a> &nbsp;
             <a align="center">
                 <img align="center" src="https://img.shields.io/badge/sysadmin-black?&style=for-the-badge&logo=linux&logoColor=white"/>
-            </a> &nbsp;
-            <a align="center">
-                <img align="center" src="https://img.shields.io/badge/back end-black?&style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-            </a> &nbsp;         
+            </a> &nbsp;    
         </p>
         <p align="center">
             <a align="center">
