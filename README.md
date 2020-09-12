@@ -1,7 +1,7 @@
 <p align="center">
         <p align="center">
             <a align="center">
-                <img align="center" src="https://img.shields.io/badge/ ㅤ  ㅤ  ㅤ  ㅤ  ㅤ  ㅤ  ㅤ  ㅤ ㅤ  ㅤ  constantly evolving ㅤ ㅤ     ㅤ  ㅤ ㅤ ㅤ  ㅤ  ㅤ  ㅤ  ㅤ -black?&style=for-the-badge"/>
+                <img align="center" src="https://img.shields.io/badge/constantly evolving-black?&style=for-the-badge"/>
             </a> &nbsp;    
         </p>
         <p align="center">
