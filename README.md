@@ -1,4 +1,4 @@
-<p align="center"><sup>Constantly evolving, studying and trying to get sucess.</sup></p>
+<p align="center"><b><sup>Constantly evolving, studying and trying to get sucess.</sup></b></p>
 
 <p align="center">
         <p align="center">
