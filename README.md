@@ -1,7 +1,3 @@
-<p align="center"><b><sup>Constantly evolving, studying and trying to get sucess.</sup></b></p>
-
-<br>
-
 <p align="center"><sup>development</sup></p>
 <p align="center">
         <p align="center">
@@ -11,6 +7,8 @@
         </p>        
     </p>
 </p>
+
+<br>
 
 <p align="center"><sup>scripting</sup></p>
 <p align="center">
