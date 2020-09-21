@@ -9,7 +9,7 @@
                 <img align="center" src="https://img.shields.io/badge/bash-black?&style=flat&logo=gnu-bash&logoColor=white"/>
             </a> &nbsp;
             <a align="center">
-                <img align="center" src="https://img.shields.io/badge/ruby-black?&style=flat&logo=ruby&logoColor=white"/>
+                <img align="center" src="https://img.shields.io/badge/python-black?&style=flat&logo=python&logoColor=white"/>
             </a>    
         </p>        
     </p>
