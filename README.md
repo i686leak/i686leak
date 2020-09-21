@@ -2,9 +2,9 @@
 
 <br>
 
+<p align="center"><sup>development</sup></p>
 <p align="center">
         <p align="center">
-        <p align="center"><sup>development</sup></p>
             <a align="center">
                 <img align="center" src="https://img.shields.io/badge/javascript-black?&style=flat&logo=javascript&logoColor=white"/>
             </a> 
@@ -12,9 +12,9 @@
     </p>
 </p>
 
+<p align="center"><sup>scripting</sup></p>
 <p align="center">
         <p align="center">
-        <p align="center"><sup>scripting</sup></p>
             <a align="center">
                 <img align="center" src="https://img.shields.io/badge/bash-black?&style=flat&logo=gnu-bash&logoColor=white"/>
             </a> &nbsp;
