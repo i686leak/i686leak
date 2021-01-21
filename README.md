@@ -3,7 +3,7 @@
              \\\,_      
               \` ,\ 
          __,.-" =__)
-       ."        )                              ~ I love my dog. But it's a rabbit ascii.
+       ."        )                              ~ Searching my money.
     ,_/   ,    \/\_
     \_|    )_-\ \_-`
        `-----` `--`
