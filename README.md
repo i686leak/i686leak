@@ -1,8 +1,11 @@
-<p align="center">
-        <p align="center">
-            <a align="center">
-                    <p align="center"><i>Seja você mesmo, não desista dos seus sonhos.</i></p>
-            </a> 
-        </p>        
-    </p>
-</p>
+<pre><code>
+             ,\  
+             \\\,_      
+              \` ,\ 
+         __,.-" =__)
+       ."        )                              ~ Love my dog. But, it's a rabbit ascii.
+    ,_/   ,    \/\_
+    \_|    )_-\ \_-`
+       `-----` `--`
+       
+</code></pre>
